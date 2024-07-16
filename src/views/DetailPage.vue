@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import GitHubRepo from '@/components/GitHubRepo.vue'
+import RepoDetails from '../components/RepoDetails.vue'
 </script>
 
 <template>
   <main>
-    <GitHubRepo />
+    <RepoDetails />
   </main>
 </template>
